@@ -1,1 +1,1 @@
-# WiZe
+# WiZe Web
